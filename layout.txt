@@ -1,0 +1,29 @@
+Front End ->
+-> Home
+-> About
+-> Contact
+-> Gallery
+-> Calculator
+	-> BMI Calculator
+	-> Calories/BMR calculator
+-> Details	
+
+Admin area -> 
+-> new registration
+-> payments
+-> members
+    ->Edit member
+    -> View Member
+-> Health status
+-> Plan
+	-> Edit subscription plan
+	-> New plan
+-> Overview
+	-> Members per month
+	-> Members per year
+	-> income per month
+-> Exercise Routine
+	-> Add Routine	
+	-> Edit Routine	
+	-> View Routine			
+-> Profile
