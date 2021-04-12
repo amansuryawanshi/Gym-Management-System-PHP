@@ -1,6 +1,6 @@
 # Gym-Website-and-Management-System
 
-Complete Front end Gym Website with PHP MySQL base admin panel and Management System which can be used to take registrations and to manage the gym with multiple features like
+Complete Front end Gym Website with PHP MySQL based admin panel and Management System which can be used to take registrations and to manage the gym with multiple features like
 
 #### Front End:
  * Index Page
